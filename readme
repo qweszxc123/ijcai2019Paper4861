@@ -1,1 +1,4 @@
 This is Supplementary Material For Paper4861.
+
+RCAU.py is the code of Recurrent Co-Attention Unit(RCAU)
+The fold sub_result contain our Co-Saliency results
